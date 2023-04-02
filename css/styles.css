@@ -73,7 +73,7 @@ p {
 
 #title {
   
-  background-image: url(/images/bg1.jpg);
+  background-image: url(images/bg1.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -119,7 +119,7 @@ p {
 /* Testimonial Section */
 
 .section3{
-  background-image: url(/images/bg1.jpg);
+  background-image: url(images/bg1.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -164,7 +164,7 @@ p {
 /* CTA Section */
 
 #cta {
-  background-image: url(/images/bg1.jpg);
+  background-image: url(images/bg1.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
